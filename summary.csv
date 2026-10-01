@@ -1,0 +1,17 @@
+analysis,site,category,onset,shortfall_last6mo,mag_window,pre_r2,resid_sd,durbin_watson,pre_n
+real (cutoff 2022-11),datascience,technical,2023-01,-0.979,2026-03..2026-08,0.233,0.3669,0.15,82
+real (cutoff 2022-11),stackoverflow,technical,2023-01,-0.979,2026-03..2026-08,0.854,0.0645,0.45,82
+real (cutoff 2022-11),cs,technical,2023-02,-0.904,2026-03..2026-08,0.582,0.1608,0.33,82
+real (cutoff 2022-11),unix,technical,2023-04,-0.876,2026-03..2026-08,0.827,0.0751,0.45,82
+real (cutoff 2022-11),physics,technical,2023-02,-0.864,2026-03..2026-08,0.288,0.1072,0.4,82
+real (cutoff 2022-11),math,technical,2022-11,-0.847,2026-03..2026-08,0.693,0.1272,0.12,82
+real (cutoff 2022-11),workplace,non-technical,2024-08,-0.843,2026-03..2026-08,0.687,0.2377,0.26,82
+real (cutoff 2022-11),worldbuilding,non-technical,2023-02,-0.815,2026-03..2026-08,0.49,0.1641,0.73,82
+real (cutoff 2022-11),fitness,non-technical,2024-06,-0.759,2026-03..2026-08,0.695,0.2189,1.81,82
+real (cutoff 2022-11),english,non-technical,2024-01,-0.756,2026-03..2026-08,0.773,0.2011,0.25,82
+real (cutoff 2022-11),cooking,non-technical,2025-01,-0.706,2026-03..2026-08,0.681,0.2089,0.52,82
+real (cutoff 2022-11),history,non-technical,2025-01,-0.657,2026-03..2026-08,0.569,0.2114,0.42,82
+real (cutoff 2022-11),travel,non-technical,no detected break,-0.454,2026-03..2026-08,0.635,0.3759,0.16,82
+real (cutoff 2022-11),gaming,non-technical,no detected break,-0.17,2026-03..2026-08,0.785,0.2387,0.37,82
+real (cutoff 2022-11),philosophy,non-technical,no detected break,-0.138,2026-03..2026-08,0.154,0.16,0.85,82
+real (cutoff 2022-11),movies,non-technical,no detected break,1.383,2026-03..2026-08,0.897,0.2198,0.75,82
